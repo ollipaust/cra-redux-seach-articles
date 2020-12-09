@@ -2,6 +2,9 @@
 
 ![React+Redux Example Search App](https://res.cloudinary.com/opco-studio/image/upload/v1607501723/chrome-capture_revoig.gif)
 
+## Live Sandbox
+https://codesandbox.io/s/react-redux-articles-search-example-h6jke
+
 ## Features
 
 * based on:
